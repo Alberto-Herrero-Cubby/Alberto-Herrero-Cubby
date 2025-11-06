@@ -1,4 +1,4 @@
-## Hi there 👋
+## mi nombre es Alberto Herrero Cubby soy alumno de primero de DAM un saludo 
 
 <!--
 **Alberto-Herrero-Cubby/Alberto-Herrero-Cubby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
